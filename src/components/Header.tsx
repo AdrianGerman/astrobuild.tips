@@ -8,7 +8,7 @@ const Header = ({ title }: Props) => {
 	return (
 		<div className="mx-auto max-w-screen-xl p-4 py-8">
 			<h1 className="mb-4">
-				<span className="font-extrabold text-transparent text-4xl bg-clip-text bg-gradient-to-r from-purple-500 to-purple-950">
+				<span className="font-extrabold text-transparent text-4xl bg-clip-text bg-gradient-to-r from-pink-400 to-purple-700">
 					{title}
 				</span>
 			</h1>
