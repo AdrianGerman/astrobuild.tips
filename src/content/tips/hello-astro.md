@@ -2,8 +2,9 @@
 title: "Hello Astro"
 pubDate: 2024-05-07
 description: "Hello this is my first recommendation"
-image:
+image: "https://api.lorem.space/image/fashion?w=640&h=480&r=3027"
 tags: ["astro", "javascript"]
+layout: "../../layouts/Post.astro"
 ---
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum recusandae blanditiis officiis suscipit mollitia adipisci non dignissimos hic iste facilis quasi neque magni, laborum earum soluta itaque repudiandae voluptatum. Illum?
