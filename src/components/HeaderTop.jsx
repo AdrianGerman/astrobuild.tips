@@ -107,8 +107,8 @@ export default function Example() {
 							<span className="sr-only">Your Company</span>
 							<img
 								className="h-8 w-auto sm:h-10"
-								src="../../public/me.webp"
-								alt=""
+								src="/me.webp"
+								alt="me profile"
 							/>
 						</a>
 					</div>
