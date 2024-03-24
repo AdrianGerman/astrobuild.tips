@@ -1,5 +1,3 @@
-// src/utils/funciones.js
-
 export const FormatDate = (date) => {
 	const event = new Date(date);
 	const newDate = event.toDateString();
